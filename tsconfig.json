@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "jsx": "react-native",
+    "target": "es2015"
+  },
+  "preserveWhitespace": true
+}
